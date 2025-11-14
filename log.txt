@@ -1,0 +1,10 @@
+01: number state 01 Gaussian Disentangling Protocol
+02: number state 01  RrhoR protocol
+03: cat state 0.1&1.0 Gaussian Disentangling Protocol
+04: cat state 0.1&1.0  RrhoR protocol
+05: cat state 0.1&1.0 Gaussian Disentangling Protocol noise
+06: cat state 0.1&1.0  RrhoR protocol noise
+07: thermal state 0.2&0.3 Gaussian Disentangling Protocol
+08: thermal state 0.2&0.3  RrhoR protocol
+09: number state 01 Gaussian Disentangling Protocol noise
+10: number state 01  RrhoR protocol noise
